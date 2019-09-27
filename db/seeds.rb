@@ -29,13 +29,13 @@ Project.create([
     {
       title: "Wetland Restoration",
       proj_type: "Environmental",
-      card_image: "wetland1.png",
+      card_image: "wetland1.jpg",
       blurb: "A wetland restoration project I helped conduct biological assessments for."
     },
     {
       title: "Habitat Restoration",
       proj_type: "Environmental",
-      card_image: "habitat1.png",
+      card_image: "habitat1.jpg",
       blurb: "Biological assessments and inventories helped influence design of habitats in NYC parks."
     },
     {
