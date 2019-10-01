@@ -49,7 +49,7 @@ Project.create([
     {
       title: "Cedar Strip Canoe",
       proj_type: "Interests",
-      card_image: "canoe-book.png",
+      card_image: "canoe-book.jpg",
       blurb: "I've taken the first steps towards building a wooden canoe from scratch."
     }
   ])
